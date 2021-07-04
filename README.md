@@ -1,5 +1,5 @@
 # BusinessOS
-A Theoretical project - hoping to become useful
+A Theoretical coding exercise project - hoping to become useful
 
 Business OS is not really an operating system, but instead an all-in-one desktop management app. 
 
